@@ -1,5 +1,5 @@
 # Fake-Doors-Bootsrap
-Website created using a Bootstrap template.
+Website created using a Bootstrap template for my Web Applications class.
 
 Added the carousel below:
 
