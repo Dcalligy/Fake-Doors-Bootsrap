@@ -1,7 +1,7 @@
 # Fake-Doors-Bootsrap
-Website done using a Bootstrap template.
+Website created using a Bootstrap template.
 
-Added the carousel below
+Added the carousel below:
 
 ```html
 <div id = "myCarousel" class="carousel slide" data-ride="carousel">
