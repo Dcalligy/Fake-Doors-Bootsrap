@@ -39,7 +39,7 @@ Added the carousel below:
 </div>
 ```
 
-I also added a popover on the Login button.
+I also added a popover on the Login button:
 ```html
 <ul class="nav navbar-nav navbar-right">
   <li><a href="#" title="Username" data-toggle="popover" data-placement="bottom" 
