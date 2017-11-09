@@ -3,7 +3,7 @@ Website done using a Bootstrap template.
 
 Added the carousel below
 
-    '<div id = "myCarousel" class="carousel slide" data-ride="carousel">
+    ```<div id = "myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators-->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -36,11 +36,11 @@ Added the carousel below
           </a>
         </div>
     </div>
-  '
+  ```
     
 I also added a popover for the login:
-'''
-<ul class="nav navbar-nav navbar-right">
+
+```<ul class="nav navbar-nav navbar-right">
         <li><a href="#" title="Username" data-toggle="popover" data-placement="bottom" data-content="Login Currently Unavailble"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>
         <script>
           $(document).ready(function(){
@@ -48,4 +48,4 @@ I also added a popover for the login:
           });
         </script>
       </ul>
- '''
+```
