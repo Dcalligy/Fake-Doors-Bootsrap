@@ -38,7 +38,7 @@ Added the carousel below
     </div>
   ```
     
-I also added a popover for the login:
+
 
 ```<ul class="nav navbar-nav navbar-right">
         <li><a href="#" title="Username" data-toggle="popover" data-placement="bottom" data-content="Login Currently Unavailble"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>
